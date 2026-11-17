@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Cameron Basham — Software &amp; systems</title>
+  <desc id="desc">Warm-paper banner with a dark ink cb. monogram and orange accent. No project imagery.</desc>
+  <rect width="1200" height="320" fill="#f0efe8"/>
+  <rect x="0" y="0" width="12" height="320" fill="#d94424"/>
+  <rect x="60" y="70" width="160" height="180" rx="8" fill="#19272b"/>
+  <text x="81" y="185" fill="#fbfaf5" font-family="Arial, sans-serif" font-weight="700" font-size="77" letter-spacing="-5">cb<tspan fill="#ffb59e">.</tspan></text>
+  <text x="264" y="128" fill="#19272b" font-family="Arial, sans-serif" font-weight="700" font-size="43" letter-spacing="-1">Cameron Basham</text>
+  <text x="260" y="214" fill="#19272b" font-family="Arial, sans-serif" font-weight="700" font-size="73" letter-spacing="-3">Software <tspan fill="#a9321a">&amp;</tspan> systems</text>
+  <path d="M264 247 H1124" stroke="#d0d2c9" stroke-width="2"/>
+  <path d="M264 247 H380" stroke="#d94424" stroke-width="4"/>
+</svg>
